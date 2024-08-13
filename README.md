@@ -1,1 +1,1 @@
-# Banka
+Junior anlamda ilk Banka denemesi
